@@ -9,10 +9,10 @@ function App() {
       </header>
       <footer>
         <p>
-          Coded by{" "}
+          Coded by
           <a href="https://github.com/MegNia2" target="_blank">
             Megnia
-          </a>{" "}
+          </a>
           on
           <a
             href="https://github.com/MegNia2/megnia-weather-project-react"
@@ -20,7 +20,7 @@ function App() {
           >
             Github
           </a>
-          , hosted on{" "}
+          , hosted on
           <a
             href="https://megnia-weather-project-react.netlify.app"
             target="_blank"
